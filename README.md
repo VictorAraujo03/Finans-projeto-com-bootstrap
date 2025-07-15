@@ -17,7 +17,7 @@ Finans é uma aplicação web simples e intuitiva para controle de finanças pes
 
 ## Demonstração
 
-![Tela inicial do Finans](img/capa-mulher.png)
+![Tela inicial do Finans](img/print-para-readme-finans.png)
 
 Acesse a aplicação localmente abrindo o arquivo [`index.html`](index.html) no seu navegador.
 
